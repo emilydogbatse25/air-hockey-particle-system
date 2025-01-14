@@ -17,6 +17,7 @@ This air hockey simulation combines classic gameplay with modern visual effects:
    
 - Physics Implementation
  - Velocity-based movement
+ - Law of Reflection used 
  - Elastic collision detection
  - Boundary checking
 
