@@ -42,6 +42,7 @@ This air hockey simulation combines classic gameplay with modern visual effects:
 
 ## Building and Running
 1. Verify that the smoke.png image is in your directory.
-2. Install required packages:
+2. Run the program from airhockey_main.py
+3. Install required packages:
 ```python
 pip install pygame
